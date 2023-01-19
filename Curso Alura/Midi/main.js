@@ -5,6 +5,10 @@ function tocaSom(idSom){
  
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
+function testeExecutaNada() {
+    document.querySelector(idSom);
+}
+
 /*
 let contador = 0;
 
